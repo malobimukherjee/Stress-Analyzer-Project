@@ -12,3 +12,4 @@
 # Tasks:   
 
 - Day 1: Figuring out stress factors and datasets
+    - Attached pdf
