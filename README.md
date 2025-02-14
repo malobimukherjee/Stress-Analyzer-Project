@@ -9,6 +9,6 @@
   - Compact and wearable design  
   - Real-time data collection and analysis
 
-#Tasks:   
+# Tasks:   
 
 - Day 1: Figuring out stress factors and datasets
