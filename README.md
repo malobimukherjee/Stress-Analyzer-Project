@@ -9,3 +9,4 @@
   - Compact and wearable design  
   - Real-time data collection and analysis  
 
+# Day 1: Figuring out stress factors and datasets
