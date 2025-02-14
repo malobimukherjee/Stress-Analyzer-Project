@@ -7,6 +7,8 @@
 - **Features:**  
   - Continuous, non-invasive stress monitoring  
   - Compact and wearable design  
-  - Real-time data collection and analysis  
+  - Real-time data collection and analysis
 
-# Day 1: Figuring out stress factors and datasets
+#Tasks:   
+
+- Day 1: Figuring out stress factors and datasets
